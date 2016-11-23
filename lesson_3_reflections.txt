@@ -3,3 +3,7 @@ A: when  I want o access it from everywhre
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 A: because githabs repository is public.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A: fork is like a clone but of a foreign repository. branch is a clone of our local repository
+
